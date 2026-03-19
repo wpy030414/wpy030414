@@ -24,3 +24,7 @@
 |Others||
 |-|-|
 |语言|![](https://img.shields.io/badge/C-了解-f7df1e?logo=c)&nbsp;![](https://img.shields.io/badge/Lua-了解-3178c6?logo=lua)<br>![](https://img.shields.io/badge/Kotlin-了解-7f52ff?logo=kotlin)&nbsp;![](https://img.shields.io/badge/C%23-了解-99cc00?logo=sharp)&nbsp;![](https://img.shields.io/badge/Python-了解-3776ab?logo=python)|
+
+## 公钥
+
+SSH | [GPG](https://xrl.im/gpg.asc)
