@@ -1,0 +1,14 @@
+{
+  "attribution": {
+    "commit": "",
+    "pr": ""
+  },
+  "env": {
+    "DISABLE_AUTOUPDATER": "1"
+  },
+  "permissions": {
+    "defaultMode": "bypassPermissions"
+  },
+  "skipDangerousModePermissionPrompt": true,
+  "skipWebFetchPreflight": true
+}
